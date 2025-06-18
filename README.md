@@ -1,12 +1,12 @@
 # 👋 Hi, I'm VoltedSwitch!
 
-🎓 **Student | Aspiring App Developer**
+🎓 **Student | Terminal Based App Developer**
 
 ---
 
 ## 🚀 About Me
 
-Hello! I’m VoltedSwitch, a passionate student driven by curiosity and creativity. Whether I’m writing Python code, designing apps, or folding the perfect paper airplane, I love turning ideas into reality.
+Hello! I’m VoltedSwitch, a student who writes Python code to create terminal based apps, or folding paper airplanes. I hope you will appreciate my work.
 
 ---
 
@@ -35,10 +35,6 @@ Hello! I’m VoltedSwitch, a passionate student driven by curiosity and creativi
 - 💻 Coder & Sketcher
 - 🥋 Martial Arts Learner
 - 🏀 Basketball Player
-
----
-
-> "Keep building, keep learning, and always have fun!"
 
 <!--
 **VoltedSwitch/VoltedSwitch** is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile!
